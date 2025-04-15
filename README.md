@@ -38,6 +38,7 @@ pip install -r requirements.txt
 - `contacts.xlsx` - Input file containing contact information
 - `log.txt` - Program execution logs
 - `failed_messages.xlsx` - Report of failed message attempts
+- `.gitignore` - Git ignore configuration file
 
 ## Usage
 
