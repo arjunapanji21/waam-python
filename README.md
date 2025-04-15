@@ -1,6 +1,6 @@
-# WhatsApp Sender Pro
+# WAAM (WhatsApp Auto Messenger)
 
-An automated WhatsApp message sender that can process bulk messages using data from Excel files.
+An automated WhatsApp messaging tool built with Python for sending bulk personalized messages using data from Excel files.
 
 ## Features
 
@@ -20,10 +20,13 @@ An automated WhatsApp message sender that can process bulk messages using data f
 
 ## Installation
 
-1. Clone this repository
+1. Clone this repository:
+```bash
+git clone https://github.com/arjunapanji21/waam-python.git
+```
 2. Install required packages:
 ```bash
-pip install selenium pandas openpyxl tqdm
+pip install -r requirements.txt
 ```
 
 ## Project Structure
@@ -71,8 +74,8 @@ python main.py
 
 **Arjuna Panji Prakarsa**
 - GitHub: [@arjunapanji21](https://github.com/arjunapanji21)
-- LinkedIn: [Arjuna Panji Prakarsa](https://www.linkedin.com/in/arjuna-panji-prakarsa)
-- Website: [arjunapanji21.github.io](https://arjunapanji21.github.io)
+- LinkedIn: [Arjuna Panji Prakarsa](https://www.linkedin.com/in/arjunapanji)
+- Website: [arjunaprakarsa.com](https://arjunaprakarsa.com)
 
 A Software Engineer who loves to learn and explore new technologies.
 
@@ -82,4 +85,4 @@ Feel free to submit issues and pull requests.
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for details.
