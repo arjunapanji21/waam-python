@@ -24,6 +24,7 @@ venv/
 
 # Project specific
 log.txt
+contacts_backup.xlsx
 failed_messages.xlsx
 *.log
 .idea/
